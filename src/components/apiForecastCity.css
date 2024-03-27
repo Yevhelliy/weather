@@ -1,0 +1,24 @@
+
+.body {
+    font-family: 'Oswold', sans-serif !important;
+}
+
+.container_block {
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.block_city {
+    text-align: center;
+}
+
+.city_temperature {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.description {
+    text-align: left;
+    padding-left: 35px;
+}

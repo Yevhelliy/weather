@@ -1,0 +1,39 @@
+.forecast_main{
+    margin-bottom: 15px;
+    color: white;
+    font-weight: bold;
+}
+.forecast_header {
+    width: 100%;
+    display: flex;
+    /*justify-content: space-between;*/
+    color: #0f7d40 ;
+}
+
+.forecast_wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+.block{
+    text-align: center;
+    border-right: 2px solid #52a378;
+    width: 100%;
+}
+
+.block:last-child {
+    border: none;
+    border-bottom-right-radius: 15px;
+}
+
+
+.forecast_date{
+    font-weight: normal;
+    color: #0f7d40;
+}
+.header-content {
+    display: flex;
+    align-items: center;
+}
